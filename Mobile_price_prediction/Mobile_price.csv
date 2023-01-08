@@ -1,0 +1,460 @@
+mobile_name,mobile_price,num_cores,mp_speed,int_memory,ram,p_cam,f_cam,battery_power
+"Realme Narzo 10A (So White, 32 GB)","₹8,999",Octa Core,2 GHz,32 GB,3 GB,12MP + 2MP + 2MP,5MP Front Camera,5000 mAh
+"Realme Narzo 10A (So Blue, 32 GB)","₹8,999",Octa Core,2 GHz,32 GB,3 GB,12MP + 2MP + 2MP,5MP Front Camera,5000 mAh
+"Realme Narzo 10A (So Blue, 64 GB)","₹9,999",Octa Core,2 GHz,64 GB,4 GB,12MP + 2MP + 2MP,5MP Front Camera,5000 mAh
+"Realme Narzo 10A (So White, 64 GB)","₹9,999",Octa Core,2 GHz,64 GB,4 GB,12MP + 2MP + 2MP,5MP Front Camera,5000 mAh
+"Realme Narzo 10 (That Green, 128 GB)","₹11,999",Octa Core,2 GHz,128 GB,4 GB,48MP + 8MP + 2MP + 2MP,16MP Front Camera,5000 mAh
+"Realme Narzo 10 (That White, 128 GB)","₹11,999",Octa Core,2 GHz,128 GB,4 GB,48MP + 8MP + 2MP + 2MP,16MP Front Camera,5000 mAh
+"Realme 5 Pro (Crystal Green, 64 GB)","₹14,999",Octa Core,2.3 GHz,64 GB,6 GB,48MP + 8MP + 2MP + 2MP Quad Camera,16MP Front Camera,4035 mAh
+"Realme 5 Pro (Crystal Green, 128 GB)","₹16,999",Octa Core,2.3 GHz,128 GB,8 GB,48MP + 8MP + 2MP + 2MP Quad Camera,16MP Front Camera,4035 mAh
+"Realme 5 Pro (Sparkling Blue, 128 GB)","₹16,999",Octa Core,2.3 GHz,128 GB,8 GB,48MP + 8MP + 2MP + 2MP Quad Camera,16MP Front Camera,4035 mAh
+"Realme 5 Pro (Sparkling Blue, 64 GB)","₹13,999",Octa Core,2.3 GHz,64 GB,4 GB,48MP + 8MP + 2MP + 2MP Quad Camera,16MP Front Camera,4035 mAh
+"Realme X2 Pro (Lunar White, 256 GB)","₹35,999",Octa Core,2.96 GHz,256 GB,12 GB,64MP + 13MP + 8MP + 2MP,16MP Front Camera,4000 mAh
+"Realme X2 Pro (Neptune Blue, 256 GB)","₹35,999",Octa Core,2.96 GHz,256 GB,12 GB,64MP + 13MP + 8MP + 2MP,16MP Front Camera,4000 mAh
+"Realme X2 Pro (Neptune Blue, 128 GB)","₹31,999",Octa Core,2.96 GHz,128 GB,8 GB,64MP + 13MP + 8MP + 2MP,16MP Front Camera,4000 mAh
+"Realme X2 Pro (Lunar White, 128 GB)","₹31,999",Octa Core,2.96 GHz,128 GB,8 GB,64MP + 13MP + 8MP + 2MP,16MP Front Camera,4000 mAh
+"Realme 2 Pro (Black Sea, 128 GB)","₹15,490",Octa Core,1.95 GHz,128 GB,8 GB,16MP + 2MP,16MP Front Camera,3500 mAh
+"Realme XT (Pearl Blue, 64 GB)","₹16,999",Octa Core,2.3 GHz,64 GB,4 GB,64MP + 8MP + 2MP + 2MP Quad Camera,16MP Front Camera,4000 mAh
+"Realme XT (Pearl White, 64 GB)","₹16,999",Octa Core,2.3 GHz,64 GB,4 GB,64MP + 8MP + 2MP + 2MP Quad Camera,16MP Front Camera,4000 mAh
+"Realme X50 Pro (Rust Red, 128 GB)","₹41,999",Octa Core,2.8 GHz,128 GB,8 GB,64MP + 12MP + 8MP + 2MP,32MP + 8MP Dual Front Camera,4200 mAh
+"Realme X50 Pro (Moss Green, 128 GB)","₹41,999",Octa Core,2.8 GHz,128 GB,8 GB,64MP + 12MP + 8MP + 2MP,32MP + 8MP Dual Front Camera,4200 mAh
+"Realme X50 Pro (Moss Green, 256 GB)","₹46,999",Octa Core,2.8 GHz,256 GB,12 GB,64MP + 12MP + 8MP + 2MP,32MP + 8MP Dual Front Camera,4200 mAh
+"Realme C3 (Frozen Blue, 32 GB)","₹8,999",Octa Core,2 GHz,32 GB,3 GB,12MP + 2MP,5MP Front Camera,5000 mAh
+"Realme 6 (Comet White, 128 GB)","₹16,999",Octa Core,2.05 GHz,128 GB,6 GB,64MP + 8MP + 2MP + 2MP,16MP Front Camera,4300 mAh
+"Realme 6 Pro (Lightning Orange, 128 GB)","₹19,999",Octa Core,2.3 GHz,128 GB,8 GB,64MP + 12MP + 8MP + 2MP,16MP + 8MP Dual Front Camera,4300 mAh
+"Realme 6 Pro (Lightning Blue, 128 GB)","₹19,999",Octa Core,2.3 GHz,128 GB,8 GB,64MP + 12MP + 8MP + 2MP,16MP + 8MP Dual Front Camera,4300 mAh
+"Realme C2 (Diamond Black, 32 GB)","₹6,999",Octa Core,2 GHz,32 GB,2 GB,13MP + 2MP,5MP Front Camera,4000 mAh
+"Realme C2 (Diamond Blue, 32 GB)","₹6,999",Octa Core,2 GHz,32 GB,2 GB,13MP + 2MP,5MP Front Camera,4000 mAh
+"Realme C2 (Diamond Black, 32 GB)","₹7,499",Octa Core,2 GHz,32 GB,3 GB,13MP + 2MP,5MP Front Camera,4000 mAh
+"Realme C2 (Diamond Blue, 32 GB)","₹7,499",Octa Core,2 GHz,32 GB,3 GB,13MP + 2MP,5MP Front Camera,4000 mAh
+"Realme C2 (Diamond Ruby, 32 GB)","₹7,499",Octa Core,2 GHz,32 GB,3 GB,13MP + 2MP,5MP Front Camera,4000 mAh
+"Realme 6 (Comet Blue, 128 GB)","₹17,999",Octa Core,2.05 GHz,128 GB,8 GB,64MP + 8MP + 2MP + 2MP,16MP Front Camera,4300 mAh
+"Realme C2 (Diamond Sapphire, 32 GB)","₹7,499",Octa Core,2 GHz,32 GB,3 GB,13MP + 2MP,5MP Front Camera,4000 mAh
+"Realme 5 Pro (Crystal Green, 64 GB)","₹13,999",Octa Core,2.3 GHz,64 GB,4 GB,48MP + 8MP + 2MP + 2MP Quad Camera,16MP Front Camera,4035 mAh
+"Realme 5s (Crystal Red, 128 GB)","₹11,999",Octa Core,2 GHz,128 GB,4 GB,48MP + 8MP + 2MP + 2MP,13MP Front Camera,5000 mAh
+"Realme 5s (Crystal Blue, 64 GB)","₹10,999",Octa Core,2 GHz,64 GB,4 GB,48MP + 8MP + 2MP + 2MP,13MP Front Camera,5000 mAh
+"Realme 5s (Crystal Purple, 128 GB)","₹11,999",Octa Core,2 GHz,128 GB,4 GB,48MP + 8MP + 2MP + 2MP,13MP Front Camera,5000 mAh
+"Realme 5s (Crystal Red, 64 GB)","₹10,999",Octa Core,2 GHz,64 GB,4 GB,48MP + 8MP + 2MP + 2MP,13MP Front Camera,5000 mAh
+"Realme 5s (Crystal Blue, 128 GB)","₹11,999",Octa Core,2 GHz,128 GB,4 GB,48MP + 8MP + 2MP + 2MP,13MP Front Camera,5000 mAh
+"Realme 5s (Crystal Purple, 64 GB)","₹10,999",Octa Core,2 GHz,64 GB,4 GB,48MP + 8MP + 2MP + 2MP,13MP Front Camera,5000 mAh
+"Realme X2 Pro (Neptune Blue, 64 GB)","₹29,999",Octa Core,2.96 GHz,64 GB,6 GB,64MP + 13MP + 8MP + 2MP,16MP Front Camera,4000 mAh
+"Realme X2 Pro (Lunar White, 64 GB)","₹29,999",Octa Core,2.96 GHz,64 GB,6 GB,64MP + 13MP + 8MP + 2MP,16MP Front Camera,4000 mAh
+"Realme X2 Pro (Red Brick, 256 GB)","₹36,999",Octa Core,2.96 GHz,256 GB,12 GB,64MP + 13MP + 8MP + 2MP,16MP Front Camera,4000 mAh
+"Realme X2 Pro (Concrete, 256 GB)","₹36,999",Octa Core,2.96 GHz,256 GB,12 GB,64MP + 13MP + 8MP + 2MP,16MP Front Camera,4000 mAh
+"Realme 6 (Comet White, 128 GB)","₹17,999",Octa Core,2.05 GHz,128 GB,8 GB,64MP + 8MP + 2MP + 2MP,16MP Front Camera,4300 mAh
+"Realme C2 (Diamond Sapphire, 32 GB)","₹7,499",Octa Core,2 GHz,32 GB,3 GB,13MP + 2MP,5MP Front Camera,4000 mAh
+"Realme 5 Pro (Crystal Green, 64 GB)","₹13,999",Octa Core,2.3 GHz,64 GB,4 GB,48MP + 8MP + 2MP + 2MP Quad Camera,16MP Front Camera,4035 mAh
+"Realme 5s (Crystal Red, 128 GB)","₹11,999",Octa Core,2 GHz,128 GB,4 GB,48MP + 8MP + 2MP + 2MP,13MP Front Camera,5000 mAh
+"Realme 5s (Crystal Blue, 64 GB)","₹10,999",Octa Core,2 GHz,64 GB,4 GB,48MP + 8MP + 2MP + 2MP,13MP Front Camera,5000 mAh
+"Realme 5s (Crystal Purple, 128 GB)","₹11,999",Octa Core,2 GHz,128 GB,4 GB,48MP + 8MP + 2MP + 2MP,13MP Front Camera,5000 mAh
+"Realme 5s (Crystal Red, 64 GB)","₹10,999",Octa Core,2 GHz,64 GB,4 GB,48MP + 8MP + 2MP + 2MP,13MP Front Camera,5000 mAh
+"Realme 5s (Crystal Blue, 128 GB)","₹11,999",Octa Core,2 GHz,128 GB,4 GB,48MP + 8MP + 2MP + 2MP,13MP Front Camera,5000 mAh
+"Realme 5s (Crystal Purple, 64 GB)","₹10,999",Octa Core,2 GHz,64 GB,4 GB,48MP + 8MP + 2MP + 2MP,13MP Front Camera,5000 mAh
+"Realme X2 Pro (Neptune Blue, 64 GB)","₹29,999",Octa Core,2.96 GHz,64 GB,6 GB,64MP + 13MP + 8MP + 2MP,16MP Front Camera,4000 mAh
+"Realme X2 Pro (Lunar White, 64 GB)","₹29,999",Octa Core,2.96 GHz,64 GB,6 GB,64MP + 13MP + 8MP + 2MP,16MP Front Camera,4000 mAh
+"Realme X2 Pro (Red Brick, 256 GB)","₹36,999",Octa Core,2.96 GHz,256 GB,12 GB,64MP + 13MP + 8MP + 2MP,16MP Front Camera,4000 mAh
+"Realme X2 Pro (Concrete, 256 GB)","₹36,999",Octa Core,2.96 GHz,256 GB,12 GB,64MP + 13MP + 8MP + 2MP,16MP Front Camera,4000 mAh
+"Realme X2 (Pearl White, 128 GB)","₹19,999",Octa Core,2.2 GHz,128 GB,6 GB,64MP + 8MP + 2MP + 2MP,32MP Front Camera,4000 mAh
+"Realme X2 (Pearl Green, 128 GB)","₹19,999",Octa Core,2.2 GHz,128 GB,6 GB,64MP + 8MP + 2MP + 2MP,32MP Front Camera,4000 mAh
+"Realme X2 (Pearl Blue, 64 GB)","₹17,999",Octa Core,2.2 GHz,64 GB,4 GB,64MP + 8MP + 2MP + 2MP,32MP Front Camera,4000 mAh
+"Realme X2 (Pearl Green, 64 GB)","₹17,999",Octa Core,2.2 GHz,64 GB,4 GB,64MP + 8MP + 2MP + 2MP,32MP Front Camera,4000 mAh
+"Realme X2 (Pearl Green, 128 GB)","₹20,999",Octa Core,2.2 GHz,128 GB,8 GB,64MP + 8MP + 2MP + 2MP,32MP Front Camera,4000 mAh
+"Realme X2 (Pearl Blue, 128 GB)","₹19,999",Octa Core,2.2 GHz,128 GB,6 GB,64MP + 8MP + 2MP + 2MP,32MP Front Camera,4000 mAh
+"Realme X2 (Pearl Blue, 128 GB)","₹20,999",Octa Core,2.2 GHz,128 GB,8 GB,64MP + 8MP + 2MP + 2MP,32MP Front Camera,4000 mAh
+"Realme X2 (Pearl White, 128 GB)","₹20,999",Octa Core,2.2 GHz,128 GB,8 GB,64MP + 8MP + 2MP + 2MP,32MP Front Camera,4000 mAh
+"Realme C2 (Diamond Blue, 16 GB)","₹6,499",Octa Core,2 GHz,16 GB,2 GB,13MP + 2MP,5MP Front Camera,4000 mAh
+"Realme Narzo 10 (That Blue, 128 GB)","₹11,999",Octa Core,2 GHz,128 GB,4 GB,48MP + 8MP + 2MP + 2MP,16MP Front Camera,5000 mAh
+"Realme X3 (Glacier Blue, 128 GB)","₹25,999",Octa Core,2.96 GHz,128 GB,8 GB,64MP + 12MP + 8MP + 2MP,16MP + 8MP Dual Front Camera,4200 mAh
+"Realme X3 (Glacier Blue, 128 GB)","₹24,999",Octa Core,2.96 GHz,128 GB,6 GB,64MP + 12MP + 8MP + 2MP,16MP + 8MP Dual Front Camera,4200 mAh
+"Realme X3 (Arctic White, 128 GB)","₹25,999",Octa Core,2.96 GHz,128 GB,8 GB,64MP + 12MP + 8MP + 2MP,16MP + 8MP Dual Front Camera,4200 mAh
+"Realme X3 SuperZoom (Glacier Blue, 128 GB)","₹27,999",Octa Core,2.96 GHz,128 GB,8 GB,64MP + 8MP + 8MP + 2MP,32MP + 8MP Dual Front Camera,4200 mAh
+"Realme X3 SuperZoom (Glacier Blue, 256 GB)","₹32,999",Octa Core,2.96 GHz,256 GB,12 GB,64MP + 8MP + 8MP + 2MP,32MP + 8MP Dual Front Camera,4200 mAh
+"Realme X3 SuperZoom (Arctic White, 256 GB)","₹32,999",Octa Core,2.96 GHz,256 GB,12 GB,64MP + 8MP + 8MP + 2MP,32MP + 8MP Dual Front Camera,4200 mAh
+"Realme X3 SuperZoom (Arctic White, 128 GB)","₹27,999",Octa Core,2.96 GHz,128 GB,8 GB,64MP + 8MP + 8MP + 2MP,32MP + 8MP Dual Front Camera,4200 mAh
+"Realme 3 (Dynamic Black, 32 GB)","₹8,499",Octa Core,2.1 GHz,32 GB,3 GB,13MP + 2MP,13MP Front Camera,4230 mAh
+"Realme 3 (Diamond Red, 64 GB)","₹9,499",Octa Core,2.1 GHz,64 GB,4 GB,13MP + 2MP,13MP Front Camera,4230 mAh
+"Realme 3 (Radiant Blue, 64 GB)","₹9,499",Octa Core,2.1 GHz,64 GB,3 GB,13MP + 2MP,13MP Front Camera,4230 mAh
+"Realme 3 (Dynamic Black, 64 GB)","₹9,499",Octa Core,2.1 GHz,64 GB,3 GB,13MP + 2MP,13MP Front Camera,4230 mAh
+"Realme 3 (Diamond Red, 32 GB)","₹8,499",Octa Core,2.1 GHz,32 GB,3 GB,13MP + 2MP,13MP Front Camera,4230 mAh
+"Realme 3 (Radiant Blue, 64 GB)","₹10,499",Octa Core,2.1 GHz,64 GB,4 GB,13MP + 2MP,13MP Front Camera,4230 mAh
+"Realme 3 (Black, 64 GB)","₹10,499",Octa Core,2.1 GHz,64 GB,4 GB,13MP + 2MP,13MP Front Camera,4230 mAh
+"Redmi 8 (Sapphire Blue, 64 GB)","₹9,799",Octa Core,1.95 GHz,64 GB,4 GB,12MP + 2MP,8MP Front Camera,5000 mAh
+"Redmi 8 (Onyx Black, 64 GB)","₹9,799",Octa Core,1.95 GHz,64 GB,4 GB,12MP + 2MP,8MP Front Camera,5000 mAh
+"Redmi K20 Pro (Flame Red, 128 GB)","₹24,999",Octa Core,2.84 GHz,128 GB,6 GB,48MP + 13MP + 8MP,20MP Front Camera,4000 mAh
+"Redmi Note 9 Pro (Aurora Blue, 64 GB)","₹16,999",Octa Core,2.3 GHz,64 GB,4 GB,48MP + 8MP + 5MP + 2MP,16MP Front Camera,5020 mAh
+"Redmi K20 Pro (Carbon Black, 128 GB)","₹24,999",Octa Core,2.84 GHz,128 GB,6 GB,48MP + 13MP + 8MP,20MP Front Camera,4000 mAh
+"Mi A3 (More Than White, 128 GB)","₹16,939",Octa Core,2 GHz,128 GB,6 GB,48MP + 8MP + 2MP,32MP Front Camera,4030 mAh
+"Redmi K20 Pro (Glacier Blue, 128 GB)","₹24,999",Octa Core,2.84 GHz,128 GB,6 GB,48MP + 13MP + 8MP,20MP Front Camera,4000 mAh
+"Redmi Note 7 Pro (Space Black, 128 GB)","₹16,999",Octa Core,2 GHz,128 GB,6 GB,48MP + 5MP,13MP Front Camera,4000 mAh
+"Mi A3 (Not just Blue, 128 GB)","₹14,999",Octa Core,2 GHz,128 GB,6 GB,48MP + 8MP + 2MP,32MP Front Camera,4030 mAh
+"Mi Mix 2 (Black, 128 GB)","₹16,999",Octa Core,2.5 GHz,128 GB,6 GB,12MP Rear Camera,5MP Front Camera,3400 mAh
+"Redmi K20 Pro (Pearl White, 128 GB)","₹24,999",Octa Core,2.84 GHz,128 GB,6 GB,48MP + 13MP + 8MP,20MP Front Camera,4000 mAh
+"Mi A3 (Kind of Grey, 128 GB)","₹17,350",Octa Core,2 GHz,128 GB,6 GB,48MP + 8MP + 2MP,32MP Front Camera,4030 mAh
+"Redmi K20 Pro (Carbon Black, 256 GB)","₹29,999",Octa Core,2.84 GHz,256 GB,8 GB,48MP + 13MP + 8MP,20MP Front Camera,4000 mAh
+"Redmi Note 7 Pro (Nebula Red, 128 GB)","₹13,999",Octa Core,2 GHz,128 GB,6 GB,48MP + 5MP,13MP Front Camera,4000 mAh
+"Redmi K20 (Carbon Black, 64 GB)","₹21,999",Octa Core,2.2 GHz,64 GB,6 GB,48MP + 13MP + 8MP,20MP Front Camera,4000 mAh
+"Redmi Y2 (Gold, 64 GB)","₹13,495",Octa Core,2 GHz,64 GB,4 GB,12MP + 5MP,16MP Front Camera,3080 mAh
+"Redmi K20 Pro (Pearl White, 256 GB)","₹29,999",Octa Core,2.84 GHz,256 GB,8 GB,48MP + 13MP + 8MP,20MP Front Camera,4000 mAh
+"Redmi K20 (Glacier Blue, 128 GB)","₹24,999",Octa Core,2.2 GHz,128 GB,6 GB,48MP + 13MP + 8MP,20MP Front Camera,4000 mAh
+"Redmi Note 6 Pro (Rose Gold, 64 GB)","₹15,990",Octa Core,1.8 GHz,64 GB,4 GB,12MP + 5MP,20MP + 2MP Dual Front Camera,4000 mAh
+"Mi A2 (Red, 64 GB)","₹13,999",Octa Core,2.2 GHz,64 GB,4 GB,20MP + 12MP,20MP Front Camera,3010 mAh
+"Mi 10 (Twilight Grey, 256 GB)","₹55,799",Octa Core,2.84 GHz,256 GB,8 GB,108MP Rear Camera,20MP Front Camera,4780 mAh
+"Mi 10 (Coral Green, 128 GB)","₹51,800",Octa Core,2.84 GHz,128 GB,8 GB,108MP Rear Camera,20MP Front Camera,4780 mAh
+"Redmi K20 (Flame Red, 128 GB)","₹24,999",Octa Core,2.2 GHz,128 GB,6 GB,48MP + 13MP + 8MP,20MP Front Camera,4000 mAh
+"Mi A2 (Red, 128 GB)","₹16,899",Octa Core,2.2 GHz,128 GB,6 GB,20MP + 12MP,20MP Front Camera,3010 mAh
+"Mi A2 (Gold, 128 GB)","₹16,899",Octa Core,2.2 GHz,128 GB,6 GB,20MP + 12MP,20MP Front Camera,3010 mAh
+"Redmi K20 (Carbon Black, 128 GB)","₹24,999",Octa Core,2.2 GHz,128 GB,6 GB,48MP + 13MP + 8MP,20MP Front Camera,4000 mAh
+"Mi A2 (Lake Blue, 128 GB)","₹16,899",Octa Core,2.2 GHz,128 GB,6 GB,20MP + 12MP,20MP Front Camera,3010 mAh
+"Redmi Note 5 Pro (Red, 64 GB)","₹16,999",Octa Core,1.8 GHz,64 GB,6 GB,12MP + 5MP,20MP Front Camera,4000 mAh
+"Redmi K20 (Pearl White, 128 GB)","₹24,999",Octa Core,2.2 GHz,128 GB,6 GB,48MP + 13MP + 8MP,20MP Front Camera,4000 mAh
+"MI3 (Metallic Grey, 16 GB)","₹13,999",Quad Core,2.3 GHz,16 GB,2 GB,13MP Rear Camera,2MP Front Camera,3050 mAh
+"Redmi 8 (Emerald Green, 64 GB)","₹9,799",Octa Core,1.95 GHz,64 GB,4 GB,12MP + 2MP,8MP Front Camera,5000 mAh
+"Redmi 8 (Ruby Red, 64 GB)","₹9,799",Octa Core,1.95 GHz,64 GB,4 GB,12MP + 2MP,8MP Front Camera,5000 mAh
+"Redmi 8 (Onyx Black, 64 GB)","₹9,799",Octa Core,1.95 GHz,64 GB,4 GB,12MP + 2MP,8MP Front Camera,5000 mAh
+"Mi A3 (Kind of Grey, 64 GB)","₹12,999",Octa Core,2 GHz,64 GB,4 GB,48MP + 8MP + 2MP,32MP Front Camera,4030 mAh
+"Redmi Note 9 Pro (Interstellar Black, 128 GB)","₹14,999",Octa Core,2.3 GHz,128 GB,6 GB,48MP + 8MP + 5MP + 2MP,16MP Front Camera,5020 mAh
+"Redmi Note 9 Pro (Aurora Blue, 128 GB)","₹14,999",Octa Core,2.3 GHz,128 GB,6 GB,48MP + 8MP + 5MP + 2MP,16MP Front Camera,5020 mAh
+"Redmi Note 9 Pro (Aurora Blue, 64 GB)","₹16,998",Octa Core,2.3 GHz,64 GB,4 GB,48MP + 8MP + 5MP + 2MP,16MP Front Camera,5020 mAh
+"Redmi 8A Dual (Sea Blue, 32 GB)","₹7,399",Octa Core,2 GHz,32 GB,2 GB,13MP + 2MP,8MP Dual Front Camera,5000 mAh
+"Redmi 8A Dual (Midnight Grey, 32 GB)","₹7,499",Octa Core,2 GHz,32 GB,3 GB,13MP + 2MP,8MP Dual Front Camera,5000 mAh
+"Redmi Note 8 (Moonlight White, 64 GB)","₹11,199",Octa Core,2 GHz,64 GB,4 GB,48MP + 8MP,13MP Front Camera,4000 mAh
+"Redmi Note 8 (Neptune Blue, 128 GB)","₹13,261",Octa Core,2 GHz,128 GB,6 GB,48MP + 8MP,13MP Front Camera,4000 mAh
+"Redmi Note 8 (Neptune Blue, 32 GB)","₹10,978",Octa Core,2 GHz,32 GB,3 GB,48MP + 8MP,13MP Front Camera,4000 mAh
+"Mi A3 (Not just Blue, 64 GB)","₹12,999",Octa Core,2 GHz,64 GB,4 GB,48MP + 8MP + 2MP,32MP Front Camera,4030 mAh
+"Mi A3 (More Than White, 64 GB)","₹12,999",Octa Core,2 GHz,64 GB,4 GB,48MP + 8MP + 2MP,32MP Front Camera,4030 mAh
+"Redmi Note 8 (Neptune Blue, 64 GB)","₹11,280",Octa Core,2 GHz,64 GB,4 GB,48MP + 8MP,13MP Front Camera,4000 mAh
+"Redmi Note 8 (Space Black, 64 GB)","₹10,100",Octa Core,2 GHz,64 GB,4 GB,48MP + 8MP,13MP Front Camera,4000 mAh
+"Redmi 8A Dual (Sky White, 32 GB)","₹7,450",Octa Core,2 GHz,32 GB,3 GB,13MP + 2MP,8MP Dual Front Camera,5000 mAh
+"Redmi Note 7 Pro (Space Black, 64 GB)","₹12,999",Octa Core,2 GHz,64 GB,6 GB,48MP + 5MP,13MP Front Camera,4000 mAh
+"Redmi K20 Pro (Flame Red, 256 GB)","₹29,999",Octa Core,2.84 GHz,256 GB,8 GB,48MP + 13MP + 8MP,20MP Front Camera,4000 mAh
+"Redmi Note 9 Pro (Glacier White, 64 GB)","₹12,999",Octa Core,2.3 GHz,64 GB,4 GB,48MP + 8MP + 5MP + 2MP,16MP Front Camera,5020 mAh
+"Redmi Note 9 Pro (Interstellar Black, 64 GB)","₹12,999",Octa Core,2.3 GHz,64 GB,4 GB,48MP + 8MP + 5MP + 2MP,16MP Front Camera,5020 mAh
+"Redmi 8A Dual (Sea Blue, 32 GB)","₹7,499",Octa Core,2 GHz,32 GB,3 GB,13MP + 2MP,8MP Dual Front Camera,5000 mAh
+"Redmi Note 6 Pro (Black, 64 GB)","₹11,999",Octa Core,1.8 GHz,64 GB,6 GB,12MP + 5MP,20MP + 2MP Dual Front Camera,4000 mAh
+"Redmi Note 6 Pro (Red, 64 GB)","₹11,999",Octa Core,1.8 GHz,64 GB,6 GB,12MP + 5MP,20MP + 2MP Dual Front Camera,4000 mAh
+"Redmi Note 4 (Black, 64 GB)","₹12,999",Octa Core,2 GHz,64 GB,4 GB,13MP Rear Camera,5MP Front Camera,4100 mAh
+"Redmi Note 6 Pro (Rose Gold, 64 GB)","₹11,999",Octa Core,1.8 GHz,64 GB,6 GB,12MP + 5MP,20MP + 2MP Dual Front Camera,4000 mAh
+"Redmi K20 (Glacier Blue, 64 GB)","₹21,999",Octa Core,2.2 GHz,64 GB,6 GB,48MP + 13MP + 8MP,20MP Front Camera,4000 mAh
+"Redmi Note 5 Pro (Gold, 64 GB)","₹12,999",Octa Core,1.8 GHz,64 GB,4 GB,12MP + 5MP,20MP Front Camera,4000 mAh
+"Redmi Note 7 Pro (Astro Moonlight White, 128 GB)","₹13,999",Octa Core,2 GHz,128 GB,6 GB,48MP + 5MP,13MP Front Camera,4000 mAh
+"Redmi Note 9 Pro Max (Interstellar Black, 128 GB)","₹16,999",Octa Core,2.3 GHz,128 GB,6 GB,64MP + 8MP + 5MP + 2MP,32MP Front Camera,5020 mAh
+"Redmi Note 9 Pro Max (Glacier White, 128 GB)","₹16,999",Octa Core,2.3 GHz,128 GB,6 GB,64MP + 8MP + 5MP + 2MP,32MP Front Camera,5020 mAh
+"Redmi 8A (Sunset Red, 32 GB)","₹6,999",Octa Core,1.95 GHz,32 GB,2 GB,12MP Rear Camera,8MP Front Camera,5000 mAh
+"Redmi Note 7 Pro (Space Black, 64 GB)","₹10,999",Octa Core,2 GHz,64 GB,4 GB,48MP + 5MP,13MP Front Camera,4000 mAh
+"Mi 10 (Coral Green, 256 GB)","₹55,400",Octa Core,2.84 GHz,256 GB,8 GB,108MP Rear Camera,20MP Front Camera,4780 mAh
+"Redmi Note 5 Pro (Black, 64 GB)","₹13,999",Octa Core,1.8 GHz,64 GB,6 GB,12MP + 5MP,20MP Front Camera,4000 mAh
+"Redmi Note 5 Pro (Rose Gold, 64 GB)","₹16,999",Octa Core,1.8 GHz,64 GB,6 GB,12MP + 5MP,20MP Front Camera,4000 mAh
+"Redmi Note 5 Pro (Red, 64 GB)","₹12,999",Octa Core,1.8 GHz,64 GB,4 GB,12MP + 5MP,20MP Front Camera,4000 mAh
+"Mi A2 (Red, 64 GB)","₹13,999",Octa Core,2.2 GHz,64 GB,4 GB,20MP + 12MP,20MP Front Camera,3010 mAh
+"Redmi Note 5 Pro (Gold, 64 GB)","₹17,999",Octa Core,1.8 GHz,64 GB,6 GB,12MP + 5MP,20MP Front Camera,4000 mAh
+"Mi A2 (Blue/Lake Blue, 64 GB)","₹13,999",Octa Core,2.2 GHz,64 GB,4 GB,20MP + 12MP,20MP Front Camera,3010 mAh
+"Redmi Go (Blue, 16 GB)","₹6,700",Quad Core,1.4 GHz,16 GB,1 GB,8MP Rear Camera,5MP Front Camera,3000 mAh
+"Redmi Note 5 Pro (Black, 64 GB)","₹12,999",Octa Core,1.8 GHz,64 GB,4 GB,12MP + 5MP,20MP Front Camera,4000 mAh
+"Redmi Note 7S (Sapphire Blue, 32 GB)","₹9,999",Octa Core,2.2 GHz,32 GB,3 GB,48MP + 5MP,13MP Front Camera,4000 mAh
+"Redmi Y2 (Rose Gold, 64 GB)","₹8,499",Octa Core,2 GHz,64 GB,4 GB,12MP + 5MP,16MP Front Camera,3080 mAh
+"Redmi 7A (Matte Black, 32 GB)","₹6,699",Octa Core,2 GHz,32 GB,2 GB,12MP Rear Camera,5MP Front Camera,4000 mAh
+"Redmi Note 7S (Onyx Black, 64 GB)","₹11,999",Octa Core,2.2 GHz,64 GB,4 GB,48MP + 5MP,13MP Front Camera,4000 mAh
+"Redmi Y2 (Blue, 32 GB)","₹7,999",Octa Core,2 GHz,32 GB,3 GB,12MP + 5MP,16MP Front Camera,3080 mAh
+"Redmi Y2 (Black, 64 GB)","₹8,499",Octa Core,2 GHz,64 GB,4 GB,12MP + 5MP,16MP Front Camera,3080 mAh
+"Redmi Note 7 (Onyx Black, 32 GB)","₹9,999",Octa Core,2.2 GHz,32 GB,3 GB,12MP + 2MP,13MP Front Camera,4000 mAh
+"Redmi 7A (Matte Black, 16 GB)","₹6,499",Octa Core,2 GHz,16 GB,2 GB,12MP Rear Camera,5MP Front Camera,4000 mAh
+"Redmi 6 (Rose Gold, 32 GB)","₹7,999",Octa Core,2 GHz,32 GB,3 GB,12MP + 5MP,5MP Front Camera,3000 mAh
+"Redmi Note 7 (Ruby Red, 32 GB)","₹9,999",Octa Core,2.2 GHz,32 GB,3 GB,12MP + 2MP,13MP Front Camera,4000 mAh
+"Redmi Note 7S (Ruby Red, 64 GB)","₹11,999",Octa Core,2.2 GHz,64 GB,4 GB,48MP + 5MP,13MP Front Camera,4000 mAh
+"Redmi 7A (Matte Gold, 16 GB)","₹6,499",Octa Core,2 GHz,16 GB,2 GB,12MP Rear Camera,5MP Front Camera,4000 mAh
+"Redmi Note 5 Pro (Blue, 64 GB)","₹13,999",Octa Core,1.8 GHz,64 GB,6 GB,12MP + 5MP,20MP Front Camera,4000 mAh
+"Redmi Note 5 Pro (Blue, 64 GB)","₹12,999",Octa Core,1.8 GHz,64 GB,4 GB,12MP + 5MP,20MP Front Camera,4000 mAh
+"Redmi Y3 (Elegant Blue, 32 GB)","₹8,369",Octa Core,1.8 GHz,32 GB,3 GB,12MP + 2MP,32MP Front Camera,4000 mAh
+"Redmi Y3 (Prime Black, 32 GB)","₹8,090",Octa Core,1.8 GHz,32 GB,3 GB,12MP + 2MP,32MP Front Camera,4000 mAh
+"Redmi Note 7 (Sapphire Blue, 32 GB)","₹9,999",Octa Core,2.2 GHz,32 GB,3 GB,12MP + 2MP,13MP Front Camera,4000 mAh
+"Redmi K20 (Flame Red, 64 GB)","₹21,999",Octa Core,2.2 GHz,64 GB,6 GB,48MP + 13MP + 8MP,20MP Front Camera,4000 mAh
+"Redmi Note 7S (Astro Moonlight White, 32 GB)","₹9,999",Octa Core,2.2 GHz,32 GB,3 GB,48MP + 5MP,13MP Front Camera,4000 mAh
+"Mi 10 (Coral Green, 256 GB)","₹55,400",Octa Core,2.84 GHz,256 GB,8 GB,108MP Rear Camera,20MP Front Camera,4780 mAh
+"Redmi Note 5 Pro (Black, 64 GB)","₹13,999",Octa Core,1.8 GHz,64 GB,6 GB,12MP + 5MP,20MP Front Camera,4000 mAh
+"Redmi Note 5 Pro (Rose Gold, 64 GB)","₹16,999",Octa Core,1.8 GHz,64 GB,6 GB,12MP + 5MP,20MP Front Camera,4000 mAh
+"Redmi Note 5 Pro (Red, 64 GB)","₹12,999",Octa Core,1.8 GHz,64 GB,4 GB,12MP + 5MP,20MP Front Camera,4000 mAh
+"Mi A2 (Red, 64 GB)","₹13,999",Octa Core,2.2 GHz,64 GB,4 GB,20MP + 12MP,20MP Front Camera,3010 mAh
+"Redmi Note 5 Pro (Gold, 64 GB)","₹17,999",Octa Core,1.8 GHz,64 GB,6 GB,12MP + 5MP,20MP Front Camera,4000 mAh
+"Mi A2 (Blue/Lake Blue, 64 GB)","₹13,999",Octa Core,2.2 GHz,64 GB,4 GB,20MP + 12MP,20MP Front Camera,3010 mAh
+"Redmi Go (Blue, 16 GB)","₹6,700",Quad Core,1.4 GHz,16 GB,1 GB,8MP Rear Camera,5MP Front Camera,3000 mAh
+"Redmi Note 4 (Gold, 64 GB)","₹13,999",Octa Core,2 GHz,64 GB,4 GB,13MP Rear Camera,5MP Front Camera,4100 mAh
+"Redmi 8A Dual (Sky White, 32 GB)","₹8,499",Octa Core,2 GHz,32 GB,2 GB,13MP + 2MP,8MP Dual Front Camera,5000 mAh
+"Redmi 8A Dual (Midnight Grey, 32 GB)","₹8,498",Octa Core,2 GHz,32 GB,2 GB,13MP + 2MP,8MP Dual Front Camera,5000 mAh
+"Redmi 8A Dual (Sky White, 64 GB)","₹9,990",Octa Core,1.95 GHz,64 GB,3 GB,13MP + 2MP,8MP Front Camera,5000 mAh
+"Redmi 8A Dual (Sea Blue, 64 GB)","₹9,990",Octa Core,1.95 GHz,64 GB,3 GB,13MP + 2MP,8MP Front Camera,5000 mAh
+"Redmi Note 6 Pro (Black, 64 GB)","₹11,349",Octa Core,1.8 GHz,64 GB,4 GB,12MP + 5MP,20MP + 2MP Dual Front Camera,4000 mAh
+"Redmi Note 7 Pro (Neptune Blue, 128 GB)","₹16,999",Octa Core,2 GHz,128 GB,6 GB,48MP + 5MP,13MP Front Camera,4000 mAh
+"Redmi 8A Dual (Midnight Grey, 64 GB)","₹9,999",Octa Core,1.95 GHz,64 GB,3 GB,13MP + 2MP,8MP Front Camera,5000 mAh
+"Redmi Note 9 Pro (Glacier White, 128 GB)","₹19,999",Octa Core,2.3 GHz,128 GB,6 GB,48MP + 8MP + 5MP + 2MP,16MP Front Camera,5020 mAh
+"Redmi Note 7 (Sapphire Blue, 64 GB)","₹14,800",Octa Core,2.2 GHz,64 GB,4 GB,12MP + 2MP,13MP Front Camera,4000 mAh
+"Mi A2 (Rose Gold, 64 GB)","₹13,990",Octa Core,2.2 GHz,64 GB,4 GB,20MP + 12MP,20MP Front Camera,3010 mAh
+"Redmi 7A (Matte Gold, 32 GB)","₹6,699",Octa Core,2 GHz,32 GB,2 GB,12MP Rear Camera,5MP Front Camera,4000 mAh
+"Redmi Y2 (Rose Gold, 32 GB)","₹8,689",Octa Core,2 GHz,32 GB,3 GB,12MP + 5MP,16MP Front Camera,3080 mAh
+"Redmi Y1 (Grey, 64 GB)","₹11,599",Octa Core,1.4 GHz,64 GB,4 GB,13MP Rear Camera,16MP Front Camera,3080 mAh
+"Redmi Y2 (Dark Grey, 32 GB)","₹7,999",Octa Core,2 GHz,32 GB,3 GB,12MP + 5MP,16MP Front Camera,3080 mAh
+"Vivo Y12 (Burgundy Red, 64 GB)","₹9,900",Octa Core,2 GHz,64 GB,3 GB,13MP + 2MP + 8MP,8MP Front Camera,5000 mAh
+"Vivo U10 (Thunder Black, 32 GB)","₹10,990",Octa Core,2 GHz,32 GB,3 GB,13MP + 8MP + 2MP,8MP Front Camera,5000 mAh
+"Vivo Y11 (Mineral Blue, 32 GB)","₹10,849",Octa Core,1.95 GHz,32 GB,3 GB,13MP + 2MP,8MP Front Camera,5000 mAh
+"Vivo Z1x (Fusion Blue, 64 GB)","₹16,990",Octa Core,2.3 GHz,64 GB,6 GB,48MP + 8MP + 2MP,32MP Front Camera,4500 mAh
+"Vivo Z1x (Phantom Purple, 64 GB)","₹16,990",Octa Core,2.3 GHz,64 GB,6 GB,48MP + 8MP + 2MP,32MP Front Camera,4500 mAh
+"Vivo Z1x (Fusion Blue, 128 GB)","₹18,990",Octa Core,2.3 GHz,128 GB,8 GB,48MP + 8MP + 2MP,32MP Front Camera,4500 mAh
+"Vivo Z1x (Phantom Purple, 128 GB)","₹18,990",Octa Core,2.3 GHz,128 GB,8 GB,48MP + 8MP + 2MP,32MP Front Camera,4500 mAh
+"Vivo Y15 (Burgundy Red, 64 GB)","₹12,990",Octa Core,2 GHz,64 GB,4 GB,13MP + 2MP + 8MP,16MP Front Camera,5000 mAh
+"Vivo Y11 (Agate Red, 32 GB)","₹10,849",Octa Core,1.95 GHz,32 GB,3 GB,13MP + 2MP,8MP Front Camera,5000 mAh
+"Vivo S1 Pro (Mystic Black, 128 GB)","₹19,990",Octa Core,2 GHz,128 GB,8 GB,48MP + 8MP + 2MP + 2MP,32MP Front Camera,4500 mAh
+"Vivo S1 Pro (Jazzy Blue, 128 GB)","₹19,990",Octa Core,2 GHz,128 GB,8 GB,48MP + 8MP + 2MP + 2MP,32MP Front Camera,4500 mAh
+"Vivo S1 Pro (Dreamy White, 128 GB)","₹19,990",Octa Core,2 GHz,128 GB,8 GB,48MP + 8MP + 2MP + 2MP,32MP Front Camera,4500 mAh
+"Vivo Y91i (Fusion Black, 32 GB)","₹8,990",Octa Core,2 GHz,32 GB,3 GB,13MP Rear Camera,5MP Front Camera,4030 mAh
+"Vivo Y91i (Ocean Blue, 32 GB)","₹11,982",Octa Core,2 GHz,32 GB,3 GB,13MP Rear Camera,5MP Front Camera,4030 mAh
+"Vivo Y50 (Pearl White, 128 GB)","₹17,990",Octa Core,2 GHz,128 GB,8 GB,13MP + 8MP + 2MP + 2MP,16MP Front Camera,5000 mAh
+"Vivo Y50 (Iris Blue, 128 GB)","₹17,990",Octa Core,2 GHz,128 GB,8 GB,13MP + 8MP + 2MP + 2MP,16MP Front Camera,5000 mAh
+"Vivo Z1Pro (Sonic Black, 128 GB)","₹17,990",Octa Core,2.3 GHz,128 GB,6 GB,16MP + 2MP + 8MP,32MP Front Camera,5000 mAh
+"Vivo Z1Pro (Sonic Black, 64 GB)","₹13,990",Octa Core,2.3 GHz,64 GB,4 GB,16MP + 2MP + 8MP,32MP Front Camera,5000 mAh
+"Vivo Z1Pro (Sonic Blue, 128 GB)","₹17,990",Octa Core,2.3 GHz,128 GB,6 GB,16MP + 2MP + 8MP,32MP Front Camera,5000 mAh
+"Vivo Y91i (Ocean Blue, 32 GB)","₹8,705",Octa Core,2 GHz,32 GB,2 GB,13MP Rear Camera,5MP Front Camera,4030 mAh
+"Vivo Y91i (Fusion Black, 32 GB)","₹8,949",Octa Core,2 GHz,32 GB,2 GB,13MP Rear Camera,5MP Front Camera,4030 mAh
+"Vivo Y19 (Magnetic Black, 128 GB)","₹16,375",Octa Core,2 GHz,128 GB,4 GB,16MP + 8MP + 2MP,16MP Front Camera,5000 mAh
+"Vivo V19 (Mystic Silver, 256 GB)","₹31,990",Octa Core,2.3 GHz,256 GB,8 GB,48MP + 8MP + 2MP + 2MP,32MP + 8MP Dual Front Camera,4500 mAh
+"Vivo V19 (Mystic Silver, 128 GB)","₹27,990",Octa Core,2.3 GHz,128 GB,8 GB,48MP + 8MP + 2MP + 2MP,32MP + 8MP Dual Front Camera,4500 mAh
+"Vivo V19 (Piano Black, 128 GB)","₹27,990",Octa Core,2.3 GHz,128 GB,8 GB,48MP + 8MP + 2MP + 2MP,32MP + 8MP Dual Front Camera,4500 mAh
+"Vivo V19 (Piano Black, 256 GB)","₹31,990",Octa Core,2.3 GHz,256 GB,8 GB,48MP + 8MP + 2MP + 2MP,32MP + 8MP Dual Front Camera,4500 mAh
+"Vivo V17 (Glacier ice white, 128 GB)","₹24,990",Octa Core,2 GHz,128 GB,8 GB,48MP + 8MP + 2MP + 2MP,32MP Front Camera,4500 mAh
+"Vivo V17 (Midnight Ocean Black, 128 GB)","₹24,990",Octa Core,2 GHz,128 GB,8 GB,48MP + 8MP + 2MP + 2MP,32MP Front Camera,4500 mAh
+"Vivo U10 (Electric Blue, 64 GB)","₹11,990",Octa Core,2 GHz,64 GB,3 GB,13MP + 8MP + 2MP,8MP Front Camera,5000 mAh
+"Vivo S1 (Skyline Blue, 64 GB)","₹18,990",Octa Core,2 GHz,64 GB,6 GB,16MP + 8MP + 2MP,32MP Front Camera,4500 mAh
+"Vivo S1 (Skyline Blue, 128 GB)","₹16,990",Octa Core,2 GHz,128 GB,4 GB,16MP + 8MP + 2MP,32MP Front Camera,4500 mAh
+"Vivo S1 (Skyline Blue, 128 GB)","₹19,990",Octa Core,2 GHz,128 GB,6 GB,16MP + 8MP + 2MP,32MP Front Camera,4500 mAh
+"Vivo S1 (Diamond Black, 128 GB)","₹16,990",Octa Core,2 GHz,128 GB,4 GB,16MP + 8MP + 2MP,32MP Front Camera,4500 mAh
+"Vivo S1 (Diamond Black, 128 GB)","₹19,990",Octa Core,2 GHz,128 GB,6 GB,16MP + 8MP + 2MP,32MP Front Camera,4500 mAh
+"Vivo Y91i (Fusion Black, 16 GB)","₹9,199",Octa Core,2 GHz,16 GB,2 GB,13MP Rear Camera,5MP Front Camera,4030 mAh
+"Vivo V15 Pro (Topaz Blue, 128 GB)","₹22,399",Octa Core,2 GHz,128 GB,6 GB,48MP + 5MP + 8MP,32MP Front Camera,3700 mAh
+"Vivo Y17 (Mystic Purple, 128 GB)","₹13,990",Octa Core,2.3 GHz,128 GB,4 GB,13MP + 2MP + 8MP,20MP Front Camera,5000 mAh
+"Vivo V15 Pro (Ruby Red, 128 GB)","₹21,099",Octa Core,2 GHz,128 GB,6 GB,"48 Million Quad Pixel Sensor (12 Million Effective Pixel) + 8MP + 5MP, AI Triple Rear Camera",32MP Front Camera,3700 mAh
+"Vivo V17Pro (Midnight Ocean Black, 128 GB)","₹29,499",Octa Core,2 GHz,128 GB,8 GB,48MP + 13MP + 8MP + 2MP,32MP + 8MP Dual Front Camera,4100 mAh
+"Vivo V17Pro (Glacier Ice White, 128 GB)","₹29,499",Octa Core,2 GHz,128 GB,8 GB,48MP + 13MP + 8MP + 2MP,32MP + 8MP Dual Front Camera,4100 mAh
+"Vivo U10 (Thunder Black, 64 GB)","₹11,490",Octa Core,2 GHz,64 GB,3 GB,13MP + 8MP + 2MP,8MP Front Camera,5000 mAh
+"Vivo V15 Pro (Topaz Blue, 128 GB)","₹28,499",Octa Core,2 GHz,128 GB,8 GB,"48 Million Quad Pixel Sensor (12 Million Effective Pixel) + 8MP + 5MP, AI Triple Rear Camera",32MP Front Camera,3700 mAh
+"Vivo V11 Pro (Starry Night Black, 64 GB)","₹28,990",Octa Core,1.95 GHz,64 GB,6 GB,12MP + 5MP,25MP Front Camera,3400 mAh
+"Vivo NEX (Black, 128 GB)","₹29,990",Octa Core,2.8 GHz,128 GB,8 GB,12MP + 5MP,8MP Front Camera,4000 mAh
+"Vivo Y81 (Black, 32 GB)","₹13,990",Octa Core,2 GHz,32 GB,3 GB,13MP Rear Camera,5MP Front Camera,3260 mAh
+"Vivo V9 Youth (Black, 32 GB)","₹16,990",Octa Core,1.8 GHz,32 GB,4 GB,16MP + 2MP,16MP Front Camera,3260 mAh
+"Vivo V15 (Frozen Black, 64 GB)","₹21,099",Octa Core,2.1 GHz,64 GB,6 GB,12MP + 5MP + 8MP,32MP Front Camera,4000 mAh
+"Vivo Y93 (Starry Black, 32 GB)","₹15,500",Octa Core,2 GHz,32 GB,4 GB,13MP + 2MP,8MP Front Camera,4030 mAh
+"Vivo Y93 (Starry Black, 64 GB)","₹14,990",Octa Core,2 GHz,64 GB,3 GB,13MP + 2MP,8MP Front Camera,4030 mAh
+"Vivo Y91 (Ocean Blue, 32 GB)","₹11,990",Octa Core,2 GHz,32 GB,2 GB,13MP + 2MP,8MP Front Camera,4030 mAh
+"Vivo V7 (Matte Black, 32 GB)","₹18,900",Octa Core,1.8 GHz,32 GB,4 GB,16MP Rear Camera,24MP Front Camera,3000 mAh
+"Vivo V7 (Energetic Blue, 32 GB)","₹15,990",Octa Core,1.8 GHz,32 GB,4 GB,16MP Rear Camera,24MP Front Camera,3000 mAh
+"Vivo Y83 (Gold, 32 GB)","₹11,999",Octa Core,2 GHz,32 GB,4 GB,13MP Rear Camera,8MP Front Camera,3260 mAh
+"Vivo V9 (Gold, 64 GB)","₹24,000",Octa Core,2.2 GHz,64 GB,4 GB,16MP + 5MP,24MP Front Camera,3260 mAh
+"Vivo Y71i (Matte Black, 16 GB)","₹8,900",Quad Core,1.4 GHz,16 GB,2 GB,8MP Rear Camera,5MP Front Camera,3360 mAh
+"Vivo Y93 (Nebula Purple, 32 GB)","₹15,990",Octa Core,2 GHz,32 GB,4 GB,13MP + 2MP,8MP Front Camera,4030 mAh
+"Vivo U10 (Electric Blue, 32 GB)","₹10,990",Octa Core,2 GHz,32 GB,3 GB,13MP + 8MP + 2MP,8MP Front Camera,5000 mAh
+"Vivo Z1Pro (Sonic Black, 64 GB)","₹14,990",Octa Core,2.3 GHz,64 GB,6 GB,16MP + 2MP + 8MP,32MP Front Camera,5000 mAh
+"Vivo Z1Pro (Sonic Blue, 64 GB)","₹13,990",Octa Core,2.3 GHz,64 GB,4 GB,16MP + 2MP + 8MP,32MP Front Camera,5000 mAh
+"Vivo Z1Pro (Sonic Blue, 64 GB)","₹14,990",Octa Core,2.3 GHz,64 GB,6 GB,16MP + 2MP + 8MP,32MP Front Camera,5000 mAh
+"Vivo U10 (Electric Blue, 64 GB)","₹12,990",Octa Core,2 GHz,64 GB,4 GB,13MP + 8MP + 2MP,8MP Front Camera,5000 mAh
+"Vivo U10 (Thunder Black, 64 GB)","₹12,990",Octa Core,2 GHz,64 GB,4 GB,13MP + 8MP + 2MP,8MP Front Camera,5000 mAh
+"Vivo V9 Pro (Black, 64 GB)","₹17,990",Octa Core,1.95 GHz,64 GB,4 GB,13MP + 2MP,16MP Front Camera,3260 mAh
+"Vivo V9 Pro (Nebula Purple, 64 GB)","₹17,990",Octa Core,1.95 GHz,64 GB,4 GB,13MP + 2MP,16MP Front Camera,3260 mAh
+"Vivo Y81 (Gold, 32 GB)","₹11,500",Octa Core,2 GHz,32 GB,3 GB,13MP Rear Camera,5MP Front Camera,3260 mAh
+"Vivo V9 Youth (Gold, 32 GB)","₹17,999",Octa Core,1.8 GHz,32 GB,4 GB,16MP + 2MP,16MP Front Camera,3260 mAh
+"Vivo Y91 (Starry Black, 32 GB)","₹9,990",Octa Core,2 GHz,32 GB,3 GB,13MP + 2MP,8MP Front Camera,4030 mAh
+"Vivo Y71 (Gold, 16 GB)","₹10,900",Quad Core,1.4 GHz,16 GB,3 GB,13MP Rear Camera,5MP Front Camera,3360 mAh
+"Vivo Y71 (Matte Black, 32 GB)","₹12,000",Quad Core,1.4 GHz,32 GB,4 GB,13MP Rear Camera,5MP Front Camera,3360 mAh
+"Vivo V7+ (Energetic Blue, 64 GB)","₹22,325",Octa Core,1.8 GHz,64 GB,4 GB,16MP Rear Camera,24MP Front Camera,3225 mAh
+"Vivo Y55S (Matte Black, 16 GB)","₹13,995",Quad Core,1.4 GHz,16 GB,3 GB,13MP Rear Camera,5MP Front Camera,2730 mAh
+"Vivo Y55S (Grey, 16 GB)","₹13,529",Quad Core,1.4 GHz,16 GB,3 GB,13MP Rear Camera,5MP Front Camera,2730 mAh
+"Vivo Y81i (Gold, 16 GB)","₹11,990",Quad Core,2 GHz,16 GB,2 GB,13MP Rear Camera,5MP Front Camera,3260 mAh
+"Vivo Y93 (Starry Black, 32 GB)","₹15,500",Octa Core,2 GHz,32 GB,4 GB,13MP + 2MP,8MP Front Camera,4030 mAh
+"Vivo Y93 (Starry Black, 64 GB)","₹14,990",Octa Core,2 GHz,64 GB,3 GB,13MP + 2MP,8MP Front Camera,4030 mAh
+"Vivo Y91 (Ocean Blue, 32 GB)","₹11,990",Octa Core,2 GHz,32 GB,2 GB,13MP + 2MP,8MP Front Camera,4030 mAh
+"Vivo V7 (Matte Black, 32 GB)","₹18,900",Octa Core,1.8 GHz,32 GB,4 GB,16MP Rear Camera,24MP Front Camera,3000 mAh
+"Vivo V7 (Energetic Blue, 32 GB)","₹15,990",Octa Core,1.8 GHz,32 GB,4 GB,16MP Rear Camera,24MP Front Camera,3000 mAh
+"Vivo Y83 (Gold, 32 GB)","₹11,999",Octa Core,2 GHz,32 GB,4 GB,13MP Rear Camera,8MP Front Camera,3260 mAh
+"Vivo V9 (Gold, 64 GB)","₹24,000",Octa Core,2.2 GHz,64 GB,4 GB,16MP + 5MP,24MP Front Camera,3260 mAh
+"Vivo Y71i (Matte Black, 16 GB)","₹8,900",Quad Core,1.4 GHz,16 GB,2 GB,8MP Rear Camera,5MP Front Camera,3360 mAh
+"Vivo Y93 (Nebula Purple, 32 GB)","₹15,990",Octa Core,2 GHz,32 GB,4 GB,13MP + 2MP,8MP Front Camera,4030 mAh
+"Vivo Z1Pro (Sonic Black, 64 GB)","₹13,990",Octa Core,2.3 GHz,64 GB,4 GB,16MP + 2MP + 8MP,32MP Front Camera,5000 mAh
+"Vivo Z1Pro (Sonic Black, 64 GB)","₹14,990",Octa Core,2.3 GHz,64 GB,6 GB,16MP + 2MP + 8MP,32MP Front Camera,5000 mAh
+"Vivo Z1Pro (Sonic Blue, 64 GB)","₹14,990",Octa Core,2.3 GHz,64 GB,6 GB,16MP + 2MP + 8MP,32MP Front Camera,5000 mAh
+"Vivo U10 (Electric Blue, 64 GB)","₹12,990",Octa Core,2 GHz,64 GB,4 GB,13MP + 8MP + 2MP,8MP Front Camera,5000 mAh
+"Vivo U10 (Thunder Black, 64 GB)","₹11,490",Octa Core,2 GHz,64 GB,3 GB,13MP + 8MP + 2MP,8MP Front Camera,5000 mAh
+"Vivo U10 (Thunder Black, 64 GB)","₹12,990",Octa Core,2 GHz,64 GB,4 GB,13MP + 8MP + 2MP,8MP Front Camera,5000 mAh
+"Vivo V9 Pro (Black, 64 GB)","₹17,990",Octa Core,1.95 GHz,64 GB,4 GB,13MP + 2MP,16MP Front Camera,3260 mAh
+"Vivo V9 Pro (Nebula Purple, 64 GB)","₹17,990",Octa Core,1.95 GHz,64 GB,4 GB,13MP + 2MP,16MP Front Camera,3260 mAh
+"Vivo Y71 (Matte Black, 16 GB)","₹10,900",Quad Core,1.4 GHz,16 GB,3 GB,13MP Rear Camera,5MP Front Camera,3360 mAh
+"Vivo Y71 (Gold, 32 GB)","₹12,000",Quad Core,1.4 GHz,32 GB,4 GB,13MP Rear Camera,5MP Front Camera,3360 mAh
+"Vivo Y91i (Black, 32 GB)","₹8,998",Octa Core,2 GHz,32 GB,2 GB,13MP Rear Camera,5MP Front Camera,4030 mAh
+"Vivo Y91 (Starry Black, 32 GB)","₹8,990",Octa Core,2 GHz,32 GB,2 GB,13MP + 2MP,8MP Front Camera,4030 mAh
+"Vivo Y69 (Gold, 32 GB)","₹14,914",Octa Core,1.5 GHz,32 GB,3 GB,13MP Rear Camera,16MP Front Camera,3000 mAh
+"Vivo Y81 (Black, 32 GB)","₹14,538",Octa Core,2 GHz,32 GB,4 GB,13MP Rear Camera,5MP Front Camera,3260 mAh
+"Samsung Galaxy M30S (Blue, 128 GB)","₹17,490",Octa Core,2.3 GHz,128 GB,4 GB,48MP + 8MP,16MP Front Camera,6000 mAh
+"Samsung Galaxy A21s (Blue, 64 GB)","₹16,499",Octa Core,2 GHz,64 GB,4 GB,48MP + 8MP + 2MP + 2MP,13MP Front Camera,5000 mAh
+"Samsung Galaxy A21s (Black, 64 GB)","₹16,499",Octa Core,2 GHz,64 GB,4 GB,48MP + 8MP + 2MP + 2MP,13MP Front Camera,5000 mAh
+"Samsung Galaxy A21s (Blue, 64 GB)","₹18,499",Octa Core,2 GHz,64 GB,6 GB,48MP + 8MP + 2MP + 2MP,13MP Front Camera,5000 mAh
+"Samsung Galaxy A21s (White, 64 GB)","₹18,499",Octa Core,2 GHz,64 GB,6 GB,48MP + 8MP + 2MP + 2MP,13MP Front Camera,5000 mAh
+"Samsung Galaxy A21s (Black, 64 GB)","₹18,499",Octa Core,2 GHz,64 GB,6 GB,48MP + 8MP + 2MP + 2MP,13MP Front Camera,5000 mAh
+"Samsung Galaxy A21s (White, 64 GB)","₹17,490",Octa Core,2 GHz,64 GB,4 GB,48MP + 8MP + 2MP + 2MP,13MP Front Camera,5000 mAh
+"Samsung Galaxy M21 (Midnight Blue, 64 GB)","₹15,999",Octa Core,2.3 GHz,64 GB,4 GB,48MP + 8MP + 5MP,20MP Front Camera,6000 mAh
+"Samsung Galaxy M21 (Raven Black, 64 GB)","₹15,990",Octa Core,2.3 GHz,64 GB,4 GB,48MP + 8MP + 5MP,20MP Front Camera,6000 mAh
+"Samsung Galaxy J2 Core (Black, 16 GB)","₹6,299",Quad Core,1.4 GHz,16 GB,1 GB,8MP Rear Camera,5MP Front Camera,2600 mAh
+"Samsung Galaxy M31 (Ocean Blue, 128 GB)","₹19,900",Octa Core,2.3 GHz,128 GB,6 GB,64MP + 8MP + 5MP + 5MP,32MP Front Camera,6000 mAh
+"Samsung Galaxy S10 Lite (Prism Blue, 512 GB)","₹47,999",Octa Core,2.8 GHz,512 GB,8 GB,48MP + 12MP + 5MP,32MP Front Camera,4500 mAh
+"Samsung Galaxy S10 Lite (Prism Black, 512 GB)","₹47,999",Octa Core,2.8 GHz,512 GB,8 GB,48MP + 12MP + 5MP,32MP Front Camera,4500 mAh
+"Samsung Galaxy J2-2017 (Metallic gold, 8 GB)","₹6,000",Quad Core,1.3 GHz,8 GB,1 GB,5MP Rear Camera,2MP Front Camera,2000 mAh
+"Samsung Galaxy J7 Pro (Black, 64 GB)","₹20,995",Octa Core,1.6 GHz,64 GB,3 GB,13MP Rear Camera,13MP Front Camera,3600 mAh
+"Samsung Galaxy J7 Nxt (Black, 16 GB)","₹11,995",Octa Core,1.6 GHz,16 GB,2 GB,13MP Rear Camera,5MP Front Camera,3000 mAh
+"Samsung Galaxy J7 Nxt (Gold, 16 GB)","₹10,995",Octa Core,1.6 GHz,16 GB,2 GB,13MP Rear Camera,5MP Front Camera,3000 mAh
+"Infinix Hot 9 Pro (Violet, 64 GB)","₹9,999",Octa Core,2 GHz,64 GB,4 GB,48 MP + 2 MP + 2 MP + Low Light Sensor,8MP Front Camera,5000 mAh
+"Infinix Hot 9 Pro (Ocean Wave, 64 GB)","₹9,999",Octa Core,2 GHz,64 GB,4 GB,48 MP + 2 MP + 2 MP + Low Light Sensor,8MP Front Camera,5000 mAh
+"Infinix Hot 9 (Violet, 64 GB)","₹8,999",Octa Core,2 GHz,64 GB,4 GB,13 MP + 2 MP + 2 MP + Low Light Sensor,8MP Front Camera,5000 mAh
+"Infinix Hot 9 (Ocean Wave, 64 GB)","₹8,999",Octa Core,2 GHz,64 GB,4 GB,13 MP + 2 MP + 2 MP + Low Light Sensor,8MP Front Camera,5000 mAh
+"Infinix Note 5 Stylus (Charcoal Blue, 64 GB)","₹10,999",Octa Core,2 GHz,64 GB,4 GB,16MP Rear Camera,16MP Front Camera,4000 mAh
+"Infinix S5 Pro (Forest Green, 64 GB)","₹11,499",Octa Core,2.3 GHz,64 GB,4 GB,48MP + 2MP + Low Light Sensor,16MP Front Camera,4000 mAh
+"Infinix S5 Pro (Violet, 64 GB)","₹11,499",Octa Core,2.3 GHz,64 GB,4 GB,48MP + 2MP + Low Light Sensor,16MP Front Camera,4000 mAh
+"Infinix Note 5 Stylus (Bordeaux Red, 64 GB)","₹10,999",Octa Core,2 GHz,64 GB,4 GB,16MP Rear Camera,16MP Front Camera,4000 mAh
+"Infinix Hot S3X (Tradew Gray, 32 GB)","₹10,999",Octa Core,1.4 GHz,32 GB,3 GB,13MP + 2MP,16MP Front Camera,4000 mAh
+"Infinix Hot S3X (Milan Black, 32 GB)","₹10,999",Octa Core,1.4 GHz,32 GB,3 GB,13MP + 2MP,16MP Front Camera,4000 mAh
+"Infinix Note 5 (Ice Blue, 64 GB)","₹7,699",Octa Core,2 GHz,64 GB,4 GB,12MP Rear Camera,16MP Front Camera,4500 mAh
+"Infinix Note 5 (Berlin Gray, 64 GB)","₹7,699",Octa Core,2 GHz,64 GB,4 GB,12MP Rear Camera,16MP Front Camera,4500 mAh
+"Infinix Hot 7 (Midnight Black, 64 GB)","₹9,999",Octa Core,2.39 GHz,64 GB,4 GB,13MP + 2MP,13MP + 2MP Dual Front Camera,4000 mAh
+"Infinix Hot 7 (Mocha Brown, 64 GB)","₹9,999",Octa Core,2.39 GHz,64 GB,4 GB,13MP + 2MP,13MP + 2MP Dual Front Camera,4000 mAh
+"Infinix Hot 7 (Aqua Blue, 64 GB)","₹9,999",Octa Core,2.39 GHz,64 GB,4 GB,13MP + 2MP,13MP + 2MP Dual Front Camera,4000 mAh
+"Infinix Note 5 (Berlin Gray, 32 GB)","₹7,599",Octa Core,2 GHz,32 GB,3 GB,12MP Rear Camera,16MP Front Camera,4500 mAh
+"Infinix Hot S3 (Topaz Blue, 64 GB)","₹11,999",Octa Core,1.4 GHz,64 GB,4 GB,13MP Rear Camera,20MP Front Camera,4000 mAh
+"Infinix Hot S3 (Sandstone Black, 64 GB)","₹11,999",Octa Core,1.4 GHz,64 GB,4 GB,13MP Rear Camera,20MP Front Camera,4000 mAh
+"Infinix Hot S3 (Blush Gold, 64 GB)","₹11,999",Octa Core,1.4 GHz,64 GB,4 GB,13MP Rear Camera,20MP Front Camera,4000 mAh
+"Infinix S5 Lite (Violet, 64 GB)","₹8,499",Octa Core,2 GHz,64 GB,4 GB,16MP + 2MP + Low Light Sensor,16MP Front Camera,4000 mAh
+"Infinix S5 Lite (Quetzal Cyan, 64 GB)","₹8,499",Octa Core,2 GHz,64 GB,4 GB,16MP + 2MP + Low Light Sensor,16MP Front Camera,4000 mAh
+"Infinix S5 Lite (Midnight Black, 64 GB)","₹8,499",Octa Core,2 GHz,64 GB,4 GB,16MP + 2MP + Low Light Sensor,16MP Front Camera,4000 mAh
+"Infinix Note 5 (Milan Black, 32 GB)","₹7,599",Octa Core,2 GHz,32 GB,3 GB,12MP Rear Camera,16MP Front Camera,4500 mAh
+"Infinix Zero 5 Pro (Bronze Gold Black, 128 GB)","₹19,999",Octa Core,2.6 GHz,128 GB,6 GB,12MP + 13MP,16MP Front Camera,4350 mAh
+"Infinix S4 (Nebula Blue, 32 GB)","₹9,599",Octa Core,2 GHz,32 GB,3 GB,13MP + 2MP Depth Sensor + 8MP Wide Angle sensor,32MP Front Camera,4000 mAh
+"Infinix S4 (Twilight Purple, 32 GB)","₹9,599",Octa Core,2 GHz,32 GB,3 GB,13MP + 2MP Depth Sensor + 8MP Wide Angle sensor,32MP Front Camera,4000 mAh
+"Infinix S4 (Space Gray, 32 GB)","₹9,599",Octa Core,2 GHz,32 GB,3 GB,13MP + 2MP Depth Sensor + 8MP Wide Angle sensor,32MP Front Camera,4000 mAh
+"Infinix S5 (Quetzal Cyan, 64 GB)","₹9,599",Octa Core,2 GHz,64 GB,4 GB,16MP + 5MP + 2MP + Low Light Sensor,32MP Front Camera,4000 mAh
+"Infinix S5 (Violet, 64 GB)","₹9,599",Octa Core,2 GHz,64 GB,4 GB,16MP + 5MP + 2MP + Low Light Sensor,32MP Front Camera,4000 mAh
+"Infinix Hot S3 (Blush Gold, 32 GB)","₹9,999",Octa Core,1.4 GHz,32 GB,3 GB,13MP Rear Camera,20MP Front Camera,4000 mAh
+"Infinix Hot S3 (Sandstone Black, 32 GB)","₹9,999",Octa Core,1.4 GHz,32 GB,3 GB,13MP Rear Camera,20MP Front Camera,4000 mAh
+"Infinix Hot S3 (Topaz Blue, 32 GB)","₹9,999",Octa Core,1.4 GHz,32 GB,3 GB,13MP Rear Camera,20MP Front Camera,4000 mAh
+"Infinix Hot S3 (Bordeaux Red, 32 GB)","₹9,999",Octa Core,1.4 GHz,32 GB,3 GB,13MP Rear Camera,20MP Front Camera,4000 mAh
+"Infinix Note 5 (Milan Black, 64 GB)","₹7,699",Octa Core,2 GHz,64 GB,4 GB,12MP Rear Camera,16MP Front Camera,4500 mAh
+"Infinix Zero 5 (Sandstone Black, 64 GB)","₹17,999",Octa Core,2.6 GHz,64 GB,6 GB,12MP + 13MP,16MP Front Camera,4350 mAh
+"Infinix Zero 5 (Bordeaux Red, 64 GB)","₹17,999",Octa Core,2.6 GHz,64 GB,6 GB,12MP + 13MP,16MP Front Camera,4350 mAh
+"POCO F1 (Steel Blue, 128 GB)","₹18,999",Octa Core,2.8 GHz,128 GB,6 GB,12MP + 5MP,20MP Front Camera,4000 mAh
+"POCO F1 (Steel Blue, 256 GB)","₹22,999",Octa Core,2.8 GHz,256 GB,8 GB,12MP + 5MP,20MP Front Camera,4000 mAh
+"POCO F1 (Graphite Black, 256 GB)","₹22,999",Octa Core,2.8 GHz,256 GB,8 GB,12MP + 5MP,20MP Front Camera,4000 mAh
+"POCO F1 (Armoured Edition, 256 GB)","₹22,999",Octa Core,2.8 GHz,256 GB,8 GB,12MP + 5MP,20MP Front Camera,4000 mAh
+"POCO F1 (Rosso Red, 64 GB)","₹19,999",Octa Core,2.8 GHz,64 GB,6 GB,12MP + 5MP,20MP Front Camera,4000 mAh
+"POCO X2 (Matrix Purple, 256 GB)","₹21,499",Octa Core,2.2 GHz,256 GB,8 GB,64MP + 8MP + 2MP + 2MP,20MP + 2MP Dual Front Camera,4500 mAh
+"POCO X2 (Matrix Purple, 64 GB)","₹17,499",Octa Core,2.2 GHz,64 GB,6 GB,64MP + 8MP + 2MP + 2MP,20MP + 2MP Dual Front Camera,4500 mAh
+"POCO X2 (Atlantis Blue, 64 GB)","₹17,499",Octa Core,2.2 GHz,64 GB,6 GB,64MP + 8MP + 2MP + 2MP,20MP + 2MP Dual Front Camera,4500 mAh
+"POCO X2 (Phoenix Red, 128 GB)","₹18,499",Octa Core,2.2 GHz,128 GB,6 GB,64MP + 8MP + 2MP + 2MP,20MP + 2MP Dual Front Camera,4500 mAh
+"POCO X2 (Atlantis Blue, 128 GB)","₹18,499",Octa Core,2.2 GHz,128 GB,6 GB,64MP + 8MP + 2MP + 2MP,20MP + 2MP Dual Front Camera,4500 mAh
+"POCO X2 (Atlantis Blue, 256 GB)","₹21,499",Octa Core,2.2 GHz,256 GB,8 GB,64MP + 8MP + 2MP + 2MP,20MP + 2MP Dual Front Camera,4500 mAh
+"POCO X2 (Phoenix Red, 256 GB)","₹21,499",Octa Core,2.2 GHz,256 GB,8 GB,64MP + 8MP + 2MP + 2MP,20MP + 2MP Dual Front Camera,4500 mAh
+"POCO X2 (Phoenix Red, 64 GB)","₹17,499",Octa Core,2.2 GHz,64 GB,6 GB,64MP + 8MP + 2MP + 2MP,20MP + 2MP Dual Front Camera,4500 mAh
+"POCO X2 Special Edition (Matrix Purple, 128 GB)","₹18,499",Octa Core,2.2 GHz,128 GB,6 GB,64MP + 8MP + 2MP + 2MP,20MP + 2MP Dual Front Camera,4500 mAh
+"POCO F1 (Rosso Red, 128 GB)","₹18,999",Octa Core,2.8 GHz,128 GB,6 GB,12MP + 5MP,20MP Front Camera,4000 mAh
+"POCO F1 (Graphite Black, 128 GB)","₹18,999",Octa Core,2.8 GHz,128 GB,6 GB,12MP + 5MP,20MP Front Camera,4000 mAh
+"POCO F1 (Rosso Red, 256 GB)","₹22,999",Octa Core,2.8 GHz,256 GB,8 GB,12MP + 5MP,20MP Front Camera,4000 mAh
+"POCO F1 (Armoured Edition, 128 GB)","₹18,999",Octa Core,2.8 GHz,128 GB,6 GB,12MP + 5MP,20MP Front Camera,4000 mAh
+"POCO X2 Special Edition (Atlantis Blue, 128 GB)","₹18,499",Octa Core,2.2 GHz,128 GB,6 GB,64MP + 8MP + 2MP + 2MP,20MP + 2MP Dual Front Camera,4500 mAh
+"POCO X2 Special Edition (Phoenix Red, 128 GB)","₹18,499",Octa Core,2.2 GHz,128 GB,6 GB,64MP + 8MP + 2MP + 2MP,20MP + 2MP Dual Front Camera,4500 mAh
+"POCO F1 (Steel Blue, 64 GB)","₹19,999",Octa Core,2.8 GHz,64 GB,6 GB,12MP + 5MP,20MP Front Camera,4000 mAh
+"POCO F1 (Graphite Black, 64 GB)","₹19,999",Octa Core,2.8 GHz,64 GB,6 GB,12MP + 5MP,20MP Front Camera,4000 mAh
+"POCO M2 Pro (Green and Greener, 64 GB)","₹14,999",Octa Core,2.3 GHz,64 GB,6 GB,48MP + 8MP + 5MP + 2MP,16MP Front Camera,5000 mAh
+"POCO M2 Pro (Green and Greener, 128 GB)","₹16,999",Octa Core,2.3 GHz,128 GB,6 GB,48MP + 8MP + 5MP + 2MP,16MP Front Camera,5000 mAh
+"POCO M2 Pro (Green and Greener, 64 GB)","₹13,999",Octa Core,2.3 GHz,64 GB,4 GB,48MP + 8MP + 5MP + 2MP,16MP Front Camera,5000 mAh
+"POCO M2 Pro (Out of the Blue, 128 GB)","₹16,999",Octa Core,2.3 GHz,128 GB,6 GB,48MP + 8MP + 5MP + 2MP,16MP Front Camera,5000 mAh
+"POCO M2 Pro (Two Shades of Black, 128 GB)","₹16,999",Octa Core,2.3 GHz,128 GB,6 GB,48MP + 8MP + 5MP + 2MP,16MP Front Camera,5000 mAh
+"POCO M2 Pro (Two Shades of Black, 64 GB)","₹14,999",Octa Core,2.3 GHz,64 GB,6 GB,48MP + 8MP + 5MP + 2MP,16MP Front Camera,5000 mAh
+"POCO M2 Pro (Out of the Blue, 64 GB)","₹14,999",Octa Core,2.3 GHz,64 GB,6 GB,48MP + 8MP + 5MP + 2MP,16MP Front Camera,5000 mAh
+"POCO M2 Pro (Two Shades of Black, 64 GB)","₹13,999",Octa Core,2.3 GHz,64 GB,4 GB,48MP + 8MP + 5MP + 2MP,16MP Front Camera,5000 mAh
+"POCO M2 Pro (Out of the Blue, 64 GB)","₹13,999",Octa Core,2.3 GHz,64 GB,4 GB,48MP + 8MP + 5MP + 2MP,16MP Front Camera,5000 mAh
+"OPPO A31 (Fantasy White, 64 GB)","₹12,490",Octa Core,2.3 GHz,64 GB,4 GB,12MP + 2MP + 2MP,8MP Front Camera,4230 mAh
+"OPPO A31 (Fantasy White, 128 GB)","₹14,990",Octa Core,2.3 GHz,128 GB,6 GB,12MP + 2MP + 2MP,8MP Front Camera,4230 mAh
+"OPPO A31 (Mystery Black, 128 GB)","₹14,990",Octa Core,2.3 GHz,128 GB,6 GB,12MP + 2MP + 2MP,8MP Front Camera,4230 mAh
+"OPPO A31 (Mystery Black, 64 GB)","₹12,490",Octa Core,2.3 GHz,64 GB,4 GB,12MP + 2MP + 2MP,8MP Front Camera,4230 mAh
+"OPPO A9 2020 (Marine Green, 128 GB)","₹16,990",Octa Core,1.8 GHz,128 GB,4 GB,48MP + 8MP + 2MP + 2MP,16MP Front Camera,5000 mAh
+"OPPO A12 (Black, 32 GB)","₹9,990",Octa Core,1.8 GHz,32 GB,3 GB,13MP + 2MP,5MP Front Camera,4230 mAh
+"OPPO A12 (Blue, 32 GB)","₹9,990",Octa Core,1.8 GHz,32 GB,3 GB,13MP + 2MP,5MP Front Camera,4230 mAh
+"OPPO A5s (Blue, 32 GB)","₹8,990",Octa Core,2.3 GHz,32 GB,2 GB,13MP + 2MP,8MP Front Camera,4230 mAh
+"OPPO F15 (Unicorn White, 128 GB)","₹18,990",Octa Core,2.1 GHz,128 GB,8 GB,48MP + 8MP + 2MP + 2MP,16MP Front Camera,4000 mAh
+"OPPO F15 (Blazing Blue, 128 GB)","₹18,990",Octa Core,2.1 GHz,128 GB,8 GB,48MP + 8MP + 2MP + 2MP,16MP Front Camera,4000 mAh
+"OPPO A52 (Twilight Black, 128 GB)","₹16,990",Octa Core,2 GHz,128 GB,6 GB,12MP + 8MP + 2MP + 2MP,16MP Front Camera,5000 mAh
+"OPPO A52 (Stream White, 128 GB)","₹16,990",Octa Core,2 GHz,128 GB,6 GB,12MP + 8MP + 2MP + 2MP,16MP Front Camera,5000 mAh
+"OPPO A11K (Deep Blue, 32 GB)","₹8,990",Octa Core,1.8 GHz,32 GB,2 GB,13MP + 2MP,5MP Front Camera,4230 mAh
+"OPPO A11K (Flowing Silver, 32 GB)","₹8,990",Octa Core,1.8 GHz,32 GB,2 GB,13MP + 2MP,5MP Front Camera,4230 mAh
+"OPPO A5s (Green, 64 GB)","₹11,990",Octa Core,2.3 GHz,64 GB,4 GB,13MP + 2MP,8MP Front Camera,4230 mAh
+"OPPO A9 2020 (Space Purple, 128 GB)","₹15,990",Octa Core,1.8 GHz,128 GB,8 GB,48MP + 8MP + 2MP + 2MP,16MP Front Camera,5000 mAh
+"OPPO F15 (Lightening Black, 128 GB)","₹18,990",Octa Core,2.1 GHz,128 GB,8 GB,48MP + 8MP + 2MP + 2MP,16MP Front Camera,4000 mAh
+"OPPO A5s (Gold, 64 GB)","₹15,899",Octa Core,2.3 GHz,64 GB,4 GB,13MP + 2MP,8MP Front Camera,4230 mAh
+"OPPO Reno3 Pro (Sky White, 128 GB)","₹29,990",Octa Core,2.2 GHz,128 GB,8 GB,64MP + 13MP + 8MP + 2MP,44MP + 2MP Dual Front Camera,4025 mAh
+"OPPO Reno3 Pro (Auroral Blue, 128 GB)","₹29,990",Octa Core,2.2 GHz,128 GB,8 GB,64MP + 13MP + 8MP + 2MP,44MP + 2MP Dual Front Camera,4025 mAh
+"OPPO Reno3 Pro (Midnight Black, 128 GB)","₹29,990",Octa Core,2.2 GHz,128 GB,8 GB,64MP + 13MP + 8MP + 2MP,44MP + 2MP Dual Front Camera,4025 mAh
+"OPPO A5s (Black, 32 GB)","₹12,990",Octa Core,2.3 GHz,32 GB,2 GB,13MP + 2MP,8MP Front Camera,4230 mAh
+"OPPO F11 Pro (Thunder Black, 64 GB)","₹14,990",Octa Core,2.1 GHz,64 GB,6 GB,48MP + 5MP,16MP Front Camera,4000 mAh
+"OPPO Reno 10x Zoom (Ocean Green, 256 GB)","₹41,990",Octa Core,2.8 GHz,256 GB,8 GB,48MP + 13MP + 8MP,16MP Front Camera,4065 mAh
+"OPPO Reno2 (Ocean Blue, 256 GB)","₹38,990",Octa Core,2.2 GHz,256 GB,8 GB,48MP + 8MP + 13MP + 2MP,16MP Front Camera,4000 mAh
+"OPPO Find X (Glacier Blue, 256 GB)","₹60,990",Octa Core,2.649 GHz,256 GB,8 GB,16MP + 20MP,25MP Front Camera,3730 mAh
+"OPPO Find X (Bordeaux Red, 256 GB)","₹60,990",Octa Core,2.649 GHz,256 GB,8 GB,16MP + 20MP,25MP Front Camera,3730 mAh
+"OPPO Reno2 Z (Luminous Black, 256 GB)","₹29,999",Octa Core,2.2 GHz,256 GB,8 GB,48MP + 8MP + 2MP + 2MP,16MP Front Camera,4000 mAh
+"OPPO A83 (2018 Edition) (Champagne, 64 GB)","₹14,499",Octa Core,2.5 GHz,64 GB,4 GB,13MP Rear Camera,8MP Front Camera,3180 mAh
+"OPPO A9 2020 (Vanilla Mint, 128 GB)","₹15,990",Octa Core,1.8 GHz,128 GB,8 GB,48MP + 8MP + 2MP + 2MP,16MP Front Camera,5000 mAh
+"OPPO A5s (Blue, 32 GB)","₹13,744",Octa Core,2.3 GHz,32 GB,3 GB,13MP + 2MP,8MP Front Camera,4230 mAh
+"OPPO A5s (Red, 32 GB)","₹12,990",Octa Core,2.3 GHz,32 GB,2 GB,13MP + 2MP,8MP Front Camera,4230 mAh
+"OPPO A5s (Black, 32 GB)","₹9,490",Octa Core,2.3 GHz,32 GB,3 GB,13MP + 2MP,8MP Front Camera,4230 mAh
+"OPPO K1 (Piano Black, 64 GB)","₹18,989",Octa Core,1.95 GHz,64 GB,6 GB,16MP + 2MP,25MP Front Camera,3600 mAh
+"OPPO F9 Pro (Sunrise Red, 64 GB)","₹19,990",Octa Core,2 GHz,64 GB,6 GB,16MP + 2MP,25MP Front Camera,3500 mAh
+"OPPO K1 (Astral Blue, 64 GB)","₹19,038",Octa Core,1.95 GHz,64 GB,6 GB,16MP + 2MP,25MP Front Camera,3600 mAh
+"OPPO F11 (Marble Green, 128 GB)","₹17,990",Octa Core,2.1 GHz,128 GB,6 GB,48MP + 5MP,16MP Front Camera,4020 mAh
+"OPPO A1K (Red, 32 GB)","₹8,490",Octa Core,2 GHz,32 GB,2 GB,8MP Rear Camera,5MP Front Camera,4000 mAh
+"OPPO A7 (Glaring Gold, 64 GB)","₹13,990",Octa Core,1.8 GHz,64 GB,3 GB,13MP + 2MP,16MP Front Camera,4230 mAh
+"OPPO F9 Pro (Twilight Blue, 64 GB)","₹19,990",Octa Core,2 GHz,64 GB,6 GB,16MP + 2MP,25MP Front Camera,3500 mAh
+"OPPO K1 (Astral Blue, 64 GB)","₹19,600",Octa Core,1.95 GHz,64 GB,4 GB,16MP + 2MP,25MP Front Camera,3600 mAh
+"OPPO F9 Pro (Starry Purple, 64 GB)","₹21,150",Octa Core,2 GHz,64 GB,6 GB,16MP + 2MP,25MP Front Camera,3500 mAh
+"OPPO A7 (Glaze Blue, 64 GB)","₹17,500",Octa Core,1.8 GHz,64 GB,4 GB,13MP + 2MP,16MP Front Camera,4230 mAh
+"OPPO A5s (Red, 32 GB)","₹12,990",Octa Core,2.3 GHz,32 GB,3 GB,13MP + 2MP,8MP Front Camera,4230 mAh
+"OPPO A3s (Red, 64 GB)","₹14,495",Octa Core,1.8 GHz,64 GB,4 GB,13MP + 2MP,8MP Front Camera,4230 mAh
+"OPPO A3s (Red, 16 GB)","₹9,500",Octa Core,1.8 GHz,16 GB,2 GB,13MP + 2MP,8MP Front Camera,4230 mAh
+"OPPO A3s (Purple, 16 GB)","₹9,500",Octa Core,1.8 GHz,16 GB,2 GB,13MP + 2MP,8MP Front Camera,4230 mAh
+"OPPO A9 2020 (Vanilla Mint, 128 GB)","₹13,990",Octa Core,1.8 GHz,128 GB,4 GB,48MP + 8MP + 2MP + 2MP,16MP Front Camera,5000 mAh
+"OPPO A12 (Black, 64 GB)","₹11,490",Octa Core,1.8 GHz,64 GB,4 GB,13MP + 2MP,5MP Front Camera,4230 mAh
+"OPPO A12 (Blue, 64 GB)","₹11,490",Octa Core,1.8 GHz,64 GB,4 GB,13MP + 2MP,5MP Front Camera,4230 mAh
+"OPPO F11 Pro (Waterfall Grey, 128 GB)","₹16,990",Octa Core,2.1 GHz,128 GB,6 GB,48MP + 5MP,16MP Front Camera,4000 mAh
+"OPPO F11 Pro (Thunder Black, 128 GB)","₹16,990",Octa Core,2.1 GHz,128 GB,6 GB,48MP + 5MP,16MP Front Camera,4000 mAh
+"OPPO R17 Pro (Radiant Mist, 128 GB)","₹31,590",Octa Core,2.2 GHz,128 GB,8 GB,12MP + 20MP,25MP Front Camera,3700 mAh
+"OPPO A83 (Black, 32 GB)","₹13,490",Octa Core,2.5 GHz,32 GB,3 GB,13MP Rear Camera,8MP Front Camera,3180 mAh
+"OPPO A83 (Red, 16 GB)","₹9,490",Octa Core,2.5 GHz,16 GB,2 GB,13MP Rear Camera,8MP Front Camera,3180 mAh
+"OPPO F7 (Red, 64 GB)","₹22,990",Octa Core,2 GHz,64 GB,4 GB,16MP Rear Camera,25MP Front Camera,3400 mAh
+"OPPO F11 (Marble Green, 128 GB)","₹13,990",Octa Core,2.1 GHz,128 GB,4 GB,48MP + 5MP,16MP Front Camera,4020 mAh
+"OPPO F11 (Fluorite Purple, 128 GB)","₹13,990",Octa Core,2.1 GHz,128 GB,4 GB,48MP + 5MP,16MP Front Camera,4020 mAh
+"OPPO F11 (Jewelry White, 128 GB)","₹17,990",Octa Core,2.1 GHz,128 GB,6 GB,48MP + 5MP,16MP Front Camera,4020 mAh
+"OPPO F1S (Rose Gold, 64 GB)","₹18,990",Octa Core,1.4 GHz,64 GB,4 GB,13MP Rear Camera,16MP Front Camera,3075 mAh
+"OPPO F1S (Grey, 64 GB)","₹18,990",Octa Core,1.4 GHz,64 GB,4 GB,13MP Rear Camera,16MP Front Camera,3075 mAh
+"OPPO F1S (Gold, 64 GB)","₹18,990",Octa Core,1.4 GHz,64 GB,4 GB,13MP Rear Camera,16MP Front Camera,3075 mAh
+"OPPO F1S (Grey, 32 GB)","₹11,990",Single Core,1.5 GHz,32 GB,3 GB,13MP Rear Camera,16MP Front Camera,3075 mAh
+"OPPO A71k (New Edition) (Blue, 16 GB)","₹8,490",Octa Core,1.8 GHz,16 GB,3 GB,13MP Rear Camera,5MP Front Camera,3000 mAh
+"OPPO A3s (Purple, 32 GB)","₹12,990",Octa Core,1.8 GHz,32 GB,3 GB,13MP + 2MP,8MP Front Camera,4230 mAh
+"OPPO F3 (Rose Gold, 64 GB)","₹18,000",Octa Core,1.5 GHz,64 GB,4 GB,13MP Rear Camera,16MP + 8MP Dual Front Camera,3200 mAh
+"OPPO A5 (Diamond Red, 32 GB)","₹13,500",Octa Core,1.8 GHz,32 GB,4 GB,13MP + 2MP,8MP Front Camera,4230 mAh
+"OPPO A83 (2018 Edition) (Red, 64 GB)","₹13,990",Octa Core,2.5 GHz,64 GB,4 GB,13MP Rear Camera,8MP Front Camera,3180 mAh
+"OPPO F9 (Stellar Purple, 64 GB)","₹17,000",Octa Core,2 GHz,64 GB,4 GB,16MP + 2MP,16MP Front Camera,3500 mAh
+"OPPO A3s (Purple, 64 GB)","₹15,000",Octa Core,1.8 GHz,64 GB,4 GB,13MP + 2MP,8MP Front Camera,4230 mAh
+"OPPO A3s (Red, 64 GB)","₹14,495",Octa Core,1.8 GHz,64 GB,4 GB,13MP + 2MP,8MP Front Camera,4230 mAh
+"OPPO A3s (Red, 16 GB)","₹9,500",Octa Core,1.8 GHz,16 GB,2 GB,13MP + 2MP,8MP Front Camera,4230 mAh
+"OPPO A3s (Purple, 16 GB)","₹9,500",Octa Core,1.8 GHz,16 GB,2 GB,13MP + 2MP,8MP Front Camera,4230 mAh
+"OPPO Reno 10x Zoom (Jet Black, 256 GB)","₹41,990",Octa Core,2.8 GHz,256 GB,8 GB,48MP + 13MP + 8MP,16MP Front Camera,4065 mAh
+"OPPO Reno 10x Zoom (Jet Black, 128 GB)","₹38,990",Octa Core,2.8 GHz,128 GB,6 GB,48MP + 13MP + 8MP,16MP Front Camera,4065 mAh
+"OPPO A9 2020 (Vanilla Mint, 128 GB)","₹13,990",Octa Core,1.8 GHz,128 GB,4 GB,48MP + 8MP + 2MP + 2MP,16MP Front Camera,5000 mAh
+"OPPO A12 (Black, 64 GB)","₹11,490",Octa Core,1.8 GHz,64 GB,4 GB,13MP + 2MP,5MP Front Camera,4230 mAh
+"OPPO A12 (Blue, 64 GB)","₹11,490",Octa Core,1.8 GHz,64 GB,4 GB,13MP + 2MP,5MP Front Camera,4230 mAh
+"OPPO F11 Pro (Waterfall Grey, 128 GB)","₹16,990",Octa Core,2.1 GHz,128 GB,6 GB,48MP + 5MP,16MP Front Camera,4000 mAh
+"OPPO F11 Pro (Thunder Black, 128 GB)","₹16,990",Octa Core,2.1 GHz,128 GB,6 GB,48MP + 5MP,16MP Front Camera,4000 mAh
+"OPPO R17 Pro (Radiant Mist, 128 GB)","₹31,590",Octa Core,2.2 GHz,128 GB,8 GB,12MP + 20MP,25MP Front Camera,3700 mAh
+"OPPO A83 (Black, 32 GB)","₹13,490",Octa Core,2.5 GHz,32 GB,3 GB,13MP Rear Camera,8MP Front Camera,3180 mAh
+"OPPO A83 (Red, 16 GB)","₹9,490",Octa Core,2.5 GHz,16 GB,2 GB,13MP Rear Camera,8MP Front Camera,3180 mAh
+"OPPO F7 (Red, 64 GB)","₹22,990",Octa Core,2 GHz,64 GB,4 GB,16MP Rear Camera,25MP Front Camera,3400 mAh
+"OPPO F11 (Marble Green, 128 GB)","₹13,990",Octa Core,2.1 GHz,128 GB,4 GB,48MP + 5MP,16MP Front Camera,4020 mAh
+"OPPO F11 (Fluorite Purple, 128 GB)","₹13,990",Octa Core,2.1 GHz,128 GB,4 GB,48MP + 5MP,16MP Front Camera,4020 mAh
